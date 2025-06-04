@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tanaman_array">
+        <item>Tanaman Hias</item>
+        <item>Tanaman Obat</item>
+        <item>Tanaman Sayuran</item>
+    </string-array>
+</resources>
